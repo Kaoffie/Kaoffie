@@ -1,10 +1,8 @@
-
-
 ## Heyo! 👋
 
 ![](https://img.shields.io/badge/OS-Linux,%20Windows-informational?style=flat&logoColor=white&color=D7614B)
 ![](https://img.shields.io/badge/Spoken%20Languages-Mandarin,%20English,%20Japanese-informational?style=flat&logoColor=white&color=0E7FBF)
-![](https://img.shields.io/badge/Programming%20Languages-Java,%20Python,%20C++-informational?style=flat&logoColor=white&color=2BBB8B)
+![](https://img.shields.io/badge/Programming%20Languages-Java,%20Python,%20C%2B%2B-informational?style=flat&logoColor=white&color=2BBB8B)
 ![](https://img.shields.io/badge/Steno%20Theory-Plover-informational?style=flat&logoColor=white&color=447166)
 
 
@@ -12,4 +10,5 @@ I'm Kaoffie, also known as Kathy; I'm currently studying Computer Science in Uni
 
 ## Github Stats
 
-![Kaoffie's Github Stats](https://github-readme-stats.vercel.app/api?username=Kaoffie&show_icons=true&theme=radical)
+![Kaoffie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoffie&layout=compact&show_icons=true&theme=radical)
+![Kaoffie's Github Stats](https://github-readme-stats.vercel.app/api?username=Kaoffie&hide=contribs&line_height=21&show_icons=true&theme=radical)
