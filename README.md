@@ -1,9 +1,7 @@
-## Heyo! 👋
+## Heyo! :wave:
 
-Hi I'm Kaoffie and I like to procrastinate
+![](https://raw.githubusercontent.com/Kaoffie/Kaoffie/master/github_steno.gif)
 
-You can contact me through [Email](mailto:kaoffie@gmail.com) or through my Discord at `Kaoffie@9001`
-
-## Github Stats
-
-![Kaoffie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoffie&layout=compact&show_icons=true&theme=radical)
+## Contact Info
+- Email: kaoffie+github@gmail.com
+- Discord: @Kaoffie#9001
